@@ -1,0 +1,8 @@
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.txt
+*.exp
+
+cache
